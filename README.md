@@ -15,16 +15,6 @@ I'm **Aman Ramanand Sharma**, a passionate Data Analyst and Full Stack Developer
 
 ---
 
-### 🎓 Education
-
-- **Goa Institute of Management** *(Jul 2021 - Mar 2023)*
-  - PGDM in Big Data Analytics
-
-- **Goa College of Engineering** *(Aug 2013 - Apr 2017)*
-  - Bachelor of Engineering in Computer Engineering
-
----
-
 ### 📊 GitHub Stats
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanramanandsharma&show_icons=true&theme=radical)
